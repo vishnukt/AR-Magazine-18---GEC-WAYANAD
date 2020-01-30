@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="yenikum_parayanund" size="0.200000 0.266698" />
+    <ImageTarget name="wormhole1" size="0.200000 0.240357" />
+    <ImageTarget name="wormhole" size="0.200000 0.255503" />
+    <ImageTarget name="WAYANAD" size="0.200000 0.261148" />
+    <ImageTarget name="vr_ar" size="0.200000 0.266698" />
+    <ImageTarget name="varika" size="0.200000 0.266698" />
+    <ImageTarget name="valiyoorkav" size="0.200000 0.251082" />
+    <ImageTarget name="union2" size="0.200000 0.238288" />
+    <ImageTarget name="union_report" size="0.200000 0.255785" />
+    <ImageTarget name="thourathrikam" size="0.200000 0.266698" />
+    <ImageTarget name="snap" size="0.200000 0.266698" />
+    <ImageTarget name="ship" size="0.200000 0.266698" />
+    <ImageTarget name="she" size="0.200000 0.266698" />
+    <ImageTarget name="sairath" size="0.200000 0.266698" />
+    <ImageTarget name="rohith" size="0.200000 0.266698" />
+    <ImageTarget name="rocket_video" size="0.200000 0.273253" />
+    <ImageTarget name="rocket" size="0.200000 0.266698" />
+    <ImageTarget name="redvine2" size="0.200000 0.266698" />
+    <ImageTarget name="perumal" size="0.200000 0.266604" />
+    <ImageTarget name="pazhassi" size="0.200000 0.268848" />
+    <ImageTarget name="neeyum_avalum" size="0.200000 0.266698" />
+    <ImageTarget name="munthiri" size="0.200000 0.266698" />
+    <ImageTarget name="metoo" size="0.200000 0.246660" />
+    <ImageTarget name="madhu" size="0.200000 0.256632" />
+    <ImageTarget name="maunam" size="0.200000 0.266698" />
+    <ImageTarget name="logo" size="0.200000 0.266949" />
+    <ImageTarget name="kranti" size="0.200000 0.266698" />
+    <ImageTarget name="karithandan" size="0.200000 0.260301" />
+    <ImageTarget name="INTERVIEW2" size="0.200000 0.266698" />
+    <ImageTarget name="interview1" size="0.200000 0.266698" />
+    <ImageTarget name="ieee" size="0.200000 0.238288" />
+    <ImageTarget name="iedc" size="0.200000 0.266322" />
+    <ImageTarget name="god" size="0.200000 0.266698" />
+    <ImageTarget name="flood2" size="0.200000 0.245908" />
+    <ImageTarget name="flood" size="0.200000 0.253998" />
+    <ImageTarget name="facebook" size="0.200000 0.266698" />
+    <ImageTarget name="earth" size="0.200000 0.267075" />
+    <ImageTarget name="drone" size="0.200000 0.266698" />
+    <ImageTarget name="dreamsofdroplet" size="0.200000 0.266698" />
+    <ImageTarget name="devil3" size="0.200000 0.266698" />
+    <ImageTarget name="Devil1" size="0.200000 0.266698" />
+    <ImageTarget name="college2" size="0.200000 0.266698" />
+    <ImageTarget name="college" size="0.200000 0.266698" />
+    <ImageTarget name="ass_repo1" size="0.200000 0.238288" />
+    <ImageTarget name="ass_repo" size="0.200000 0.255785" />
+    <ImageTarget name="anbesivam2" size="0.200000 0.224271" />
+    <ImageTarget name="anbesivam" size="0.200000 0.266698" />
+    <ImageTarget name="adayalangal" size="0.200000 0.266698" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,428 @@
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\VuforiaScripts.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\VuforiaScripts.pdb
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\mscorlib.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\netstandard.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\nunit.framework.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\SyntaxTree.VisualStudio.Unity.Bridge.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.AppContext.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Collections.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Collections.Specialized.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.ComponentModel.Composition.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.ComponentModel.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Console.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Core.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Data.Common.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Data.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Drawing.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Globalization.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.IO.Compression.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.IO.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.IO.FileSystem.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.IO.Pipes.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Linq.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Linq.Expressions.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Linq.Parallel.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Linq.Queryable.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Net.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Net.Http.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Net.NameResolution.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Net.Ping.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Net.Primitives.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Net.Requests.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Net.Security.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Net.Sockets.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Net.WebSockets.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Numerics.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.ObjectModel.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Reflection.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Resources.Reader.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Resources.Writer.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Runtime.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Runtime.Handles.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Security.Claims.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Security.Principal.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Security.SecureString.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.ServiceModel.Web.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Text.Encoding.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Threading.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Threading.Tasks.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Threading.Thread.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Threading.Timer.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Transactions.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.ValueTuple.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Web.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Windows.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Xml.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Xml.Serialization.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Xml.XDocument.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Xml.XPath.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\Unity.Analytics.Editor.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\Unity.Analytics.Tracker.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\Unity.Locator.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEditor.Advertisements.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEditor.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEditor.Graphs.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEditor.Purchasing.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEditor.TestRunner.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEditor.UWP.Extensions.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEditor.VR.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\Vuforia.UnityExtensions.Editor.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\Unity.IvyParser.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\SyntaxTree.VisualStudio.Unity.Messaging.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\nunit.framework.xml
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\Vuforia.UnityExtensions.Editor.xml
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\obj\Debug\VuforiaScripts.csprojAssemblyReference.cache
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\obj\Debug\VuforiaScripts.csproj.CoreCompileInputs.cache
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\obj\Debug\VuforiaScripts.csproj.CopyComplete
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\obj\Debug\VuforiaScripts.dll
+C:\Users\VISHNU\Documents\GECW MAGAZINE'18\obj\Debug\VuforiaScripts.pdb
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\VuforiaScripts.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\VuforiaScripts.pdb
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\DOTween.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\DOTweenEditor.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\mscorlib.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\netstandard.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\nunit.framework.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\SyntaxTree.VisualStudio.Unity.Bridge.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.AppContext.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Collections.Concurrent.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Collections.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Collections.NonGeneric.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Collections.Specialized.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.ComponentModel.Composition.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.ComponentModel.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Console.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Core.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Data.Common.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Data.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Diagnostics.Debug.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Diagnostics.Process.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Diagnostics.Tools.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Drawing.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Drawing.Primitives.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Dynamic.Runtime.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Globalization.Calendars.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Globalization.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Globalization.Extensions.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.IO.Compression.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.IO.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.IO.FileSystem.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.IO.Pipes.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Linq.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Linq.Expressions.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Linq.Parallel.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Linq.Queryable.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Net.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Net.Http.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Net.NameResolution.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Net.NetworkInformation.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Net.Ping.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Net.Primitives.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Net.Requests.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Net.Security.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Net.Sockets.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Net.WebSockets.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Numerics.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Numerics.Vectors.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.ObjectModel.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Reflection.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Reflection.Extensions.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Reflection.Primitives.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Resources.Reader.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Resources.ResourceManager.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Resources.Writer.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Runtime.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Runtime.Extensions.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Runtime.Handles.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Runtime.InteropServices.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Runtime.Numerics.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Runtime.Serialization.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Security.Claims.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Security.Principal.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Security.SecureString.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.ServiceModel.Web.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Text.Encoding.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Text.RegularExpressions.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Threading.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Threading.Overlapped.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Threading.Tasks.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Threading.Thread.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Threading.ThreadPool.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Threading.Timer.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Transactions.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.ValueTuple.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Web.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Windows.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Xml.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Xml.Linq.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Xml.Serialization.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Xml.XDocument.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Xml.XmlDocument.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Xml.XPath.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\Unity.Analytics.Editor.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\Unity.Analytics.Tracker.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\Unity.Locator.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEditor.Advertisements.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEditor.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEditor.Graphs.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEditor.Purchasing.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEditor.TestRunner.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEditor.UI.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEditor.UWP.Extensions.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEditor.VR.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.AIModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.ARModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.AudioModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.ClothModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.CoreModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.GridModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.InputModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.TLSModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.UI.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.UIModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.UNETModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.VFXModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.VideoModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.VRModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.WindModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.XRModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\Vuforia.UnityExtensions.Editor.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\Unity.Cecil.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\Unity.DataContract.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\ExCSS.Unity.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\Unity.IvyParser.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\SyntaxTree.VisualStudio.Unity.Messaging.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\Unity.CecilTools.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\nunit.framework.xml
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\Vuforia.UnityExtensions.Editor.xml
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\DOTweenEditor.xml
+E:\My Files\mgzn\GECW MAGAZINE'18\Temp\bin\Debug\DOTween.xml
+E:\My Files\mgzn\GECW MAGAZINE'18\obj\Debug\VuforiaScripts.csprojAssemblyReference.cache
+E:\My Files\mgzn\GECW MAGAZINE'18\obj\Debug\VuforiaScripts.csproj.CoreCompileInputs.cache
+E:\My Files\mgzn\GECW MAGAZINE'18\obj\Debug\VuforiaScripts.csproj.CopyComplete
+E:\My Files\mgzn\GECW MAGAZINE'18\obj\Debug\VuforiaScripts.dll
+E:\My Files\mgzn\GECW MAGAZINE'18\obj\Debug\VuforiaScripts.pdb

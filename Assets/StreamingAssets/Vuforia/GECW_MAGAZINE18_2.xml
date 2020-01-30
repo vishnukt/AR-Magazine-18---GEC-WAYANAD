@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ieee_" size="0.200000 0.266698" />
+    <ImageTarget name="statue" size="0.200000 0.266698" />
+    <ImageTarget name="temple" size="0.200000 0.266698" />
+    <ImageTarget name="sunflower" size="0.200000 0.266698" />
+    <ImageTarget name="gecw" size="0.200000 0.243556" />
+  </Tracking>
+</QCARConfig>

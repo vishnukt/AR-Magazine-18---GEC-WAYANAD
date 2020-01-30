@@ -1,0 +1,304 @@
+fileFormatVersion: 2
+guid: 9e3d37ed9d3c623448d8fe7c46ac0b14
+ModelImporter:
+  serializedVersion: 25
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Headphonemesh
+    second: {fileID: 2100000, guid: 61c1bfd5c606deb42b3e5ea3840b4571, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Inisiderift.001
+    second: {fileID: 2100000, guid: 5f297cdb1a6dcdb4abb2c305221bcb92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OutsideHMD
+    second: {fileID: 2100000, guid: 5f297cdb1a6dcdb4abb2c305221bcb92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShinierPlastic
+    second: {fileID: 2100000, guid: 8727cba4cc16a14459be5415de8f7212, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShinierPlastic.001
+    second: {fileID: 2100000, guid: 8727cba4cc16a14459be5415de8f7212, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShinierPlasticNoLogo
+    second: {fileID: 2100000, guid: 8727cba4cc16a14459be5415de8f7212, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bandrubber
+    second: {fileID: 2100000, guid: f02d2f42ea8962641928b5832c4ad113, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blackfoam
+    second: {fileID: 2100000, guid: f55f73e00400f654e88f2a7a3676472a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blackspecular
+    second: {fileID: 2100000, guid: 61c1bfd5c606deb42b3e5ea3840b4571, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: clothband
+    second: {fileID: 2100000, guid: f02d2f42ea8962641928b5832c4ad113, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: darkmetal.001
+    second: {fileID: 2100000, guid: 61c1bfd5c606deb42b3e5ea3840b4571, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass.001
+    second: {fileID: 2100000, guid: 374eb758791ca9545a2323dea3d6be52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: insidemesh
+    second: {fileID: 2100000, guid: 61c1bfd5c606deb42b3e5ea3840b4571, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tag
+    second: {fileID: 2100000, guid: 3e832f6d7a22996499f0a4bc05d6f098, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: cv1_FF(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Lamp.005
+      parentName: cv1_FF(Clone)
+      position: {x: -5.6864753, y: 0.59592533, z: 6.841124}
+      rotation: {x: 0.6461543, y: -0.3568368, z: 0.6385443, w: 0.21774593}
+      scale: {x: 100.00001, y: 100, z: 100}
+    - name: Lamp.004
+      parentName: cv1_FF(Clone)
+      position: {x: -3.7476552, y: 3.4311163, z: -12.223028}
+      rotation: {x: 0.6461543, y: -0.3568368, z: 0.6385443, w: 0.21774593}
+      scale: {x: 100.00001, y: 100, z: 100}
+    - name: Lamp.003
+      parentName: cv1_FF(Clone)
+      position: {x: 5.7217, y: -8.344193, z: -12.223028}
+      rotation: {x: 0.6461543, y: -0.3568368, z: 0.6385443, w: 0.21774593}
+      scale: {x: 100.00001, y: 100, z: 100}
+    - name: Cylinder.001
+      parentName: cv1_FF(Clone)
+      position: {x: -0, y: 0.44787955, z: -3.3515842}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cube.027
+      parentName: cv1_FF(Clone)
+      position: {x: 1.294849, y: -0.619545, z: 0.16117255}
+      rotation: {x: 0.7049143, y: 0.055641953, z: -0.055641968, w: 0.70491415}
+      scale: {x: 47.550648, y: 47.550648, z: 47.550648}
+    - name: Cube.029
+      parentName: cv1_FF(Clone)
+      position: {x: -0, y: -0.0019488335, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cube.028
+      parentName: cv1_FF(Clone)
+      position: {x: 1.294849, y: -0.65819114, z: 0.1611725}
+      rotation: {x: 0.70491415, y: 0.055641968, z: -0.055641957, w: 0.7049142}
+      scale: {x: 47.550648, y: 47.550648, z: 47.550648}
+    - name: Cylinder.009
+      parentName: cv1_FF(Clone)
+      position: {x: 1.0477, y: -1.035402, z: 0.19868962}
+      rotation: {x: 0.7049143, y: 0.055641953, z: -0.05564196, w: 0.70491415}
+      scale: {x: 105.566025, y: 105.566025, z: 105.566025}
+    - name: Lamp.002
+      parentName: cv1_FF(Clone)
+      position: {x: 6.4607525, y: -0.84468365, z: 13.511902}
+      rotation: {x: 0.6461543, y: -0.3568368, z: 0.6385443, w: 0.21774593}
+      scale: {x: 100.00001, y: 100, z: 100}
+    - name: Lamp.001
+      parentName: cv1_FF(Clone)
+      position: {x: -3.4592147, y: -3.9904518, z: -8.081859}
+      rotation: {x: 0.6461543, y: -0.3568368, z: 0.6385443, w: 0.21774593}
+      scale: {x: 100.00001, y: 100, z: 100}
+    - name: Cube.026
+      parentName: cv1_FF(Clone)
+      position: {x: -0, y: 0, z: -0.7328359}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cylinder.008
+      parentName: cv1_FF(Clone)
+      position: {x: -0.000000004953645, y: 2.5988028, z: -1.4523263}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Lamp
+      parentName: cv1_FF(Clone)
+      position: {x: -4.774182, y: 4.4465036, z: -0.15868092}
+      rotation: {x: 0.6461543, y: -0.3568368, z: 0.6385443, w: 0.21774593}
+      scale: {x: 100.00001, y: 100, z: 100}
+    - name: Camera
+      parentName: cv1_FF(Clone)
+      position: {x: -7.4811316, y: 5.343665, z: 6.5076394}
+      rotation: {x: 0.08579308, y: 0.8932931, z: -0.21205638, w: 0.38690972}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cube.015
+      parentName: cv1_FF(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000053385076, y: 0.7071068, z: 0.70710677, w: -0.00000005338508}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cube.016
+      parentName: cv1_FF(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cube.017
+      parentName: cv1_FF(Clone)
+      position: {x: -0, y: 0, z: 0.08336555}
+      rotation: {x: 0.000000053385076, y: 0.7071068, z: 0.70710677, w: -0.00000005338508}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cube.018
+      parentName: cv1_FF(Clone)
+      position: {x: -0, y: 0, z: 0.09337807}
+      rotation: {x: 0.000000053385076, y: 0.7071068, z: 0.70710677, w: -0.00000005338508}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cube.019
+      parentName: cv1_FF(Clone)
+      position: {x: -0, y: 0, z: -0.7328359}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cube.020
+      parentName: cv1_FF(Clone)
+      position: {x: -2.4032968e-19, y: 2.4978247, z: -0.86379856}
+      rotation: {x: -0.71247226, y: 0, z: -0, w: 0.70170027}
+      scale: {x: 110.76495, y: 100.00002, z: 100.00002}
+    - name: Cube.021
+      parentName: cv1_FF(Clone)
+      position: {x: 4.705369e-18, y: 2.477716, z: -0.82358104}
+      rotation: {x: -0.71247226, y: 0, z: -0, w: 0.70170027}
+      scale: {x: 110.76495, y: 100.00002, z: 100.00002}
+    - name: Cube.023
+      parentName: cv1_FF(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cube.024
+      parentName: cv1_FF(Clone)
+      position: {x: -0, y: 0, z: 0.04631946}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cube.025
+      parentName: cv1_FF(Clone)
+      position: {x: -1.121205, y: -0.13690558, z: -6.909917}
+      rotation: {x: -0.74860007, y: 0.21543492, z: -0.14808676, w: 0.6093079}
+      scale: {x: 85.06456, y: 85.06454, z: 85.06456}
+    - name: Cube.012
+      parentName: cv1_FF(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000053385076, y: 0.7071068, z: 0.70710677, w: -0.00000005338508}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cylinder.006
+      parentName: cv1_FF(Clone)
+      position: {x: -0.010177644, y: -1.1102482, z: -3.3515842}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cylinder.003
+      parentName: cv1_FF(Clone)
+      position: {x: -0, y: 0.44787955, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
