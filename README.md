@@ -1,5 +1,5 @@
 # GECW-Magazine-18-AR-App
-GECW Magazine'18 - Kaneshumari AR App - Unity Vuforia
+Augmented Reality(AR) Android App for College Magazine'2018 - Kaneshumari using UNITY - VUFORIA
 
 https://kaneshumariar.blogspot.com/
 
